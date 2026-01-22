@@ -23,9 +23,7 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 - 🔭 Currently building cloud-native applications with AWS and modern web frameworks
 - 🌱 Deepening my expertise in cloud architecture, DevOps practices, and full-stack development
 - 💼 Former Software Engineer Intern at Excellus BlueCross BlueShield
-- 💬 Ask me about React, AWS, Spring Boot, or Agile methodologies
-- 📫 How to reach me: anthonyjunlieu@gmail.com
-- ⚡ Fun fact: Achieved 3.89 GPA while building full-stack apps and leading Agile teams
+- ⚡ Fun fact: I love rock climbing!
 
 ## Tech Stack
 
@@ -55,28 +53,7 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 
-## Featured Projects
-
-### 🌐 Intelligent Stock Market News Analyzer
-Full-stack cloud application with sentiment analysis capabilities
-- **Tech:** React, AWS (EC2, S3, Lambda, RDS, SNS, Cognito, Comprehend), Terraform, Python
-- **Highlights:** Led team development, implemented CI/CD with GitHub Actions, automated infrastructure provisioning
-
-### 🍎 NutriKit
-Food management app for tracking nutritional information
-- **Tech:** React, Flask, PostgreSQL
-- **Highlights:** Client-server architecture, RESTful API design, secure data management
-
-### 💙 U-Fund
-Charity platform for donations and volunteer coordination
-- **Tech:** Angular, Spring Boot
-- **Highlights:** Led Agile process for team of 5, built REST APIs, integrated frontend-backend architecture
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lieuanthony/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonyjunlieu@gmail.com)
-
----
-
-💡 *Always open to collaborating on interesting projects and learning new technologies!*
