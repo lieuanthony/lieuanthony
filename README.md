@@ -74,7 +74,7 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 ## 📫 Let's Connect
 
 - 📧 Email: anthonyjunlieu@gmail.com
-- 🌐 Portfolio: [lieuanthony.github.io](https://lieuanthony.github.io)
+- 🌐 Personal Website: [lieuanthony.github.io](https://lieuanthony.github.io)
 - 📱 Phone: +1-518-366-0679
 
 ---
