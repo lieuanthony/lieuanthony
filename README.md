@@ -52,31 +52,3 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-## 🚀 Featured Projects
-
-### [Say Less](https://github.com/lieuanthony) 
-*Real-time multiplayer voice-based game*
-- Built Java WebSocket server on AWS EC2 for synchronized multiplayer lobbies with server-authoritative game state
-- Integrated AWS Transcribe Streaming for voice-to-text conversion and Redis for game state management
-- Developed React frontend with live audio streaming and real-time UI updates
-- **Tech:** Python, React, Redis, PostgreSQL, AWS, Terraform
-
-## 💼 Experience
-
-**Software Engineer Co-op** @ RIT Department of Software Engineering *(Jan 2026 - Present)*
-- Designing and developing the SCOOP Portal for co-op program management
-
-**Software Engineer in Test Co-op** @ Excellus BlueCross BlueShield *(June 2025 - Aug 2025)*
-- Increased test coverage from 30-40% to 90-100% across 6 shared libraries
-- Resolved critical production issues and improved system observability
-
-## 📫 Let's Connect
-
-- 📧 Email: anthonyjunlieu@gmail.com
-- 🌐 Personal Website: [lieuanthony.github.io](https://lieuanthony.github.io)
-- 📱 Phone: +1-518-366-0679
-
----
-
-⭐️ From [lieuanthony](https://github.com/lieuanthony)
