@@ -6,7 +6,7 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 
 - 🏫 Studying Software Engineering at RIT (Expected May 2027)
 - 💼 Currently working as a Software Engineer Co-op at RIT's Department of Software Engineering
-- 🌱 Focused on full-stack development, cloud computing, and automated testing
+- 🌱 Focused on backend development and cloud computing
 - 📍 Based in Schenectady, NY
 
 ## 🛠️ Technical Skills
@@ -61,20 +61,6 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 - Integrated AWS Transcribe Streaming for voice-to-text conversion and Redis for game state management
 - Developed React frontend with live audio streaming and real-time UI updates
 - **Tech:** Python, React, Redis, PostgreSQL, AWS, Terraform
-
-### [Intelligent Stock Market News Analyzer](https://github.com/lieuanthony)
-*Sentiment analysis platform for stock market news*
-- Created serverless Python Lambda functions to fetch and analyze news sentiment using AWS Comprehend
-- Built interactive React dashboard with real-time sentiment visualizations
-- Automated infrastructure provisioning and deployment with Terraform and GitHub Actions
-- **Tech:** Python, React, MySQL, AWS Lambda, API Gateway, S3
-
-### [U-Fund](https://github.com/lieuanthony)
-*Charity donation and volunteer management platform*
-- Led Agile development for 5-person team, managing sprints and code reviews
-- Developed full-stack solution with Angular frontend and Spring Boot REST APIs
-- Implemented secure authentication and donation processing workflows
-- **Tech:** Java, Angular, Spring Boot
 
 ## 💼 Experience
 
