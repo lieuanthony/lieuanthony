@@ -1,59 +1,96 @@
-<!--
-**lieuanthony/lieuanthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm Anthony Lieu 👋
 
-## About Me
+I'm a Software Engineering student at Rochester Institute of Technology with a passion for building scalable web applications and cloud infrastructure.
 
-I'm a Software Engineering student at Rochester Institute of Technology with a passion for building full-stack applications and cloud-based solutions. I enjoy working with modern web technologies and exploring cloud infrastructure.
+## 🎓 About Me
 
-- 🎓 Pursuing BS in Software Engineering at RIT (Expected May 2027)
-- 🔭 Currently building cloud-native applications with AWS and modern web frameworks
-- 🌱 Deepening my expertise in cloud architecture, DevOps practices, and full-stack development
-- 💼 Former Software Engineer Intern at Excellus BlueCross BlueShield
-- ⚡ Fun fact: I love rock climbing!
+- 🏫 Studying Software Engineering at RIT (Expected May 2027)
+- 💼 Currently working as a Software Engineer Co-op at RIT's Department of Software Engineering
+- 🌱 Focused on full-stack development, cloud computing, and automated testing
+- 📍 Based in Schenectady, NY
 
-## Tech Stack
+## 🛠️ Technical Skills
 
-**Languages:**  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+**Languages:**
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+**Frameworks & Libraries:**
 
-**Database & Testing:**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
-## Connect with Me
+**Databases:**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lieuanthony/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anthonyjunlieu@gmail.com)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+**Cloud & DevOps:**
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+**Developer Tools:**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+## 🚀 Featured Projects
+
+### [Say Less](https://github.com/lieuanthony) 
+*Real-time multiplayer voice-based game*
+- Built Java WebSocket server on AWS EC2 for synchronized multiplayer lobbies with server-authoritative game state
+- Integrated AWS Transcribe Streaming for voice-to-text conversion and Redis for game state management
+- Developed React frontend with live audio streaming and real-time UI updates
+- **Tech:** Python, React, Redis, PostgreSQL, AWS, Terraform
+
+### [Intelligent Stock Market News Analyzer](https://github.com/lieuanthony)
+*Sentiment analysis platform for stock market news*
+- Created serverless Python Lambda functions to fetch and analyze news sentiment using AWS Comprehend
+- Built interactive React dashboard with real-time sentiment visualizations
+- Automated infrastructure provisioning and deployment with Terraform and GitHub Actions
+- **Tech:** Python, React, MySQL, AWS Lambda, API Gateway, S3
+
+### [U-Fund](https://github.com/lieuanthony)
+*Charity donation and volunteer management platform*
+- Led Agile development for 5-person team, managing sprints and code reviews
+- Developed full-stack solution with Angular frontend and Spring Boot REST APIs
+- Implemented secure authentication and donation processing workflows
+- **Tech:** Java, Angular, Spring Boot
+
+## 💼 Experience
+
+**Software Engineer Co-op** @ RIT Department of Software Engineering *(Jan 2026 - Present)*
+- Designing and developing the SCOOP Portal for co-op program management
+
+**Software Engineer in Test Co-op** @ Excellus BlueCross BlueShield *(June 2025 - Aug 2025)*
+- Increased test coverage from 30-40% to 90-100% across 6 shared libraries
+- Resolved critical production issues and improved system observability
+
+## 📫 Let's Connect
+
+- 📧 Email: anthonyjunlieu@gmail.com
+- 🌐 Portfolio: [lieuanthony.github.io](https://lieuanthony.github.io)
+- 📱 Phone: +1-518-366-0679
+
+---
+
+⭐️ From [lieuanthony](https://github.com/lieuanthony)
