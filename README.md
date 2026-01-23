@@ -7,7 +7,6 @@ I'm a Software Engineering student at Rochester Institute of Technology with a p
 - 🏫 Studying Software Engineering at RIT (Expected May 2027)
 - 💼 Currently working as a Software Engineer Co-op at RIT's Department of Software Engineering
 - 🌱 Focused on backend development and cloud computing
-- 📍 Based in Schenectady, NY
 
 ## 🛠️ Technical Skills
 
